@@ -1,4 +1,4 @@
-FROM quay.io/vektorcloud/python2:latest
+FROM quay.io/vektorcloud/python:2
 
 ENV DOCKERGEN_VERSION 0.6.0
 RUN cd /tmp/ && \
