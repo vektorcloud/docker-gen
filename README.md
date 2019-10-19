@@ -1,6 +1,6 @@
 # docker-gen
 
-![circleci][circleci]
+[![circleci][circleci]](https://circleci.com/gh/vektorcloud/docker-gen)
 
 Alpine-based image with [docker-gen](https://github.com/jwilder/docker-gen) template renderer
 
